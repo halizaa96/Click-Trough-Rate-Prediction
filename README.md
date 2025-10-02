@@ -1,1 +1,1 @@
-# RFM-customer-segmentation
+# Click Trough Rate (CTR) Prediction
